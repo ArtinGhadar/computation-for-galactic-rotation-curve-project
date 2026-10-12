@@ -21,10 +21,6 @@ with open("sparc_data_dmf.csv", "r", newline="") as file:
     database = list(reader)
 
 def data_format(galaxy_inp, variable_inp):
-        
-
-
-
     
     data = []
     for row in database: 
